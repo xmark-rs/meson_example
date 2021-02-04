@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/private/tmp/boom/builddir",
+    "command": "cc -Idemo.p -I. -I.. -Xclang -fcolor-diagnostics -pipe -Wall -Winvalid-pch -g -MD -MQ demo.p/main.c.o -MF demo.p/main.c.o.d -o demo.p/main.c.o -c ../main.c",
+    "file": "../main.c",
+    "output": "demo.p/main.c.o"
+  }
+]
